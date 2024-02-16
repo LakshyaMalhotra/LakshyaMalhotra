@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LakshyaMalhotra. I'm currently a yield data scientist at Intel Corporation. I focus on using deep learning methods especially computer vision to detect the defects in semiconductor wafers.
-- 👀 I’m passionate about machine learning and its applications to solve challenging business problems.
-- 🌱 I’m currently learning the vast ocean of generative AI and its applications in NLP.
+- 👋 Hi, I’m @LakshyaMalhotra. I'm currently a yield data scientist at Intel Corporation. I focus on using deep learning methods especially computer vision to detect the defects in semiconductor wafers
+- 👀 I’m passionate about artificial intelligence and its applications to solve challenging problems
+- 🌱 Outside work, I’m currently working on finetuning LLMs and trying to create a local ChatGPT
 - 📫 Reach out to me on [linkedin](https://www.linkedin.com/in/lamalhotra/)
 
 <!---
